@@ -1,5 +1,7 @@
 # Line segment detection in forms processing problems
 
+<img src="sample_combined.jpg" alt="Drawing" style="width: 600px;"/>
+
 Forms processing is a process by which one can capture information entered into fields of a document form and convert it into an electronic format. Form fields are typically organized into tabular structures, where line segments separate different form fields. When the exact position of a form field on the image is known (by locating the neighbouring line segments), OCR process can be performed to automatically capture information inside the fields. 
 
 Using the provided dataset of 200 input images, your task is to:
